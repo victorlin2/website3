@@ -67,30 +67,30 @@ education:
     end: 2013-06-30
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Basic Life Research Scientist
+    org: Stanford University School of Medicine
+    start: 2025-11-23
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+      Leading research on mass spectrometry, metabolomics, environmental health.
     button:
       text: View portfolio
       url: /
       icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+  - role: Postdoctoral scholar
+    org: Stanford University
+    start: 2022-02-01
+    end: 2025-11-22
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Worked on mass spectrometry, metabolomics, environmental health. Co-authored paper on mass spectrometry, metabolomics, environmental health.
 
 skills:
   - name: Technical Skills
     items:
-      - label: Python
+      - label: Mass spectrometry
         level: 5
-      - label: Machine Learning
+      - label: Metabolomics
         level: 5
-      - label: Cloud Computing
+      - label: R (programming language)
         level: 4
   - name: Research & Communication
     items:
@@ -116,8 +116,14 @@ languages:
     label: Elementary proficiency    
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: French-speaking Metabolomics and Fluxomics Network (RFMF) Travel Award
+    awarder: French-speaking Metabolomics and Fluxomics Network (RFMF)
+    date: "2019-06-26"
+    summary: Awarded for PhD work on Metabolomics.
+    icon: hero/trophy
+
+  - title: SHARP Training Scholarship Awards for early-career investigator
+    awarder: Columbia University
+    date: "2021-06-01"
+    summary: Awarded for research on Metabolomics/Exposomics.
     icon: hero/trophy
