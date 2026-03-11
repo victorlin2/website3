@@ -42,7 +42,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-### Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+# Use this area to speak to your mission. #I'm a research scientist in the Moonshot team at DeepMind. #I blog about machine learning, deep learning, and moonshots.
         My research interests center on mass spectrometry, metabolomics, and their applications in biomedical research and environmental health.
         Please reach out to collaborate 😃
     design:
